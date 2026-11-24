@@ -1,0 +1,344 @@
+{
+  "2026-012": {
+    "schedule": {
+      "date": "2026-11-21",
+      "time": "16:30"
+    },
+    "actaId": "765089",
+    "report": {
+      "fixture": {
+        "home": "SANTANYI",
+        "away": "CD MIGJORN",
+        "competition": "tercera"
+      },
+      "actaId": "765089",
+      "score": [
+        4,
+        1
+      ],
+      "events": [
+        {
+          "minute": 30,
+          "player": "MARC URBINA RUBIO",
+          "type": "goal",
+          "team": "away",
+          "score": "0-1"
+        },
+        {
+          "minute": 42,
+          "player": "JAVIER NEBOT ROMÁN",
+          "type": "goal",
+          "team": "home",
+          "score": "1-1"
+        },
+        {
+          "minute": 43,
+          "player": "MARCO CANO PAZ",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 43,
+          "player": "JOSEPH ANIBAL BARRAGAN CRUZ",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 47,
+          "player": "PRUDENCE EDOSA IGBINOVIA UGIAGBE",
+          "type": "goal",
+          "team": "home",
+          "score": "2-1"
+        },
+        {
+          "minute": 50,
+          "player": "OMAR GALLA DIOP",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 52,
+          "player": "CHRISTOFER ROBIN BOHMER",
+          "type": "yellow_card",
+          "team": "home"
+        },
+        {
+          "minute": 55,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "ANTONI TORREGROSA GARAU",
+          "playerOut": "CHRISTOFER ROBIN BOHMER"
+        },
+        {
+          "minute": 58,
+          "player": "DANIEL BARDOLET PETTERSSON",
+          "type": "goal",
+          "team": "home",
+          "score": "3-1"
+        },
+        {
+          "minute": 60,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "GABRIEL VIDAL NSUE",
+          "playerOut": "DANIEL BARDOLET PETTERSSON"
+        },
+        {
+          "minute": 60,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "AITOR VERGARACHEA GARCIA",
+          "playerOut": "FELIX MARTINEZ"
+        },
+        {
+          "minute": 60,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "MACODE SAMB",
+          "playerOut": "LUIS DAVID MARTINEZ RUBIA"
+        },
+        {
+          "minute": 60,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "KENNY DUSTIN BASCUÑANT PASTEN",
+          "playerOut": "JOSEPH ANIBAL BARRAGAN CRUZ"
+        },
+        {
+          "minute": 73,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "JOAN COLL SOLA",
+          "playerOut": "HECTOR RIUDAVETS OLMOS"
+        },
+        {
+          "minute": 73,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "ANTONIO JIMENEZ CARBONERO",
+          "playerOut": "MARC URBINA RUBIO"
+        },
+        {
+          "minute": 79,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "IGNACIO PEREZ MARTIN",
+          "playerOut": "MARC SINTES PONS"
+        },
+        {
+          "minute": 83,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "ANTONIO GONZÁLEZ HERNÁNDEZ",
+          "playerOut": "ALEJANDRO EXPOSITO ALFONSO"
+        },
+        {
+          "minute": 83,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "JUAN CIFRE NAVAS",
+          "playerOut": "JAVIER NEBOT ROMÁN"
+        },
+        {
+          "minute": 89,
+          "player": "ALBERTO GARCIA SERRA",
+          "type": "goal",
+          "team": "home",
+          "score": "4-1"
+        }
+      ]
+    }
+  },
+  "2026-006": {
+    "schedule": {
+      "date": "2026-10-11",
+      "time": "12:30"
+    },
+    "actaId": "765032",
+    "report": {
+      "fixture": {
+        "home": "CD MIGJORN",
+        "away": "CARDASSAR",
+        "competition": "tercera"
+      },
+      "actaId": "765032",
+      "score": [
+        2,
+        3
+      ],
+      "events": [
+        {
+          "minute": 12,
+          "player": "KENNY DUSTIN BASCUÑANT PASTEN",
+          "type": "yellow_card",
+          "team": "home"
+        },
+        {
+          "minute": 19,
+          "player": "MARCO CANO PAZ",
+          "type": "yellow_card",
+          "team": "home"
+        },
+        {
+          "minute": 41,
+          "player": "ABDOUL KARIM SIDIBE",
+          "type": "goal",
+          "team": "home",
+          "score": "1-0"
+        },
+        {
+          "minute": 53,
+          "player": "ALEJANDRO GARCIA PABLO",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 57,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "MIGUEL ALGABA BOVER",
+          "playerOut": "SERGIO BARROSO CARRASCO"
+        },
+        {
+          "minute": 59,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "MARC URBINA RUBIO",
+          "playerOut": "MARCO CANO PAZ"
+        },
+        {
+          "minute": 59,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "MARC MELIA BARBER",
+          "playerOut": "KENNY DUSTIN BASCUÑANT PASTEN"
+        },
+        {
+          "minute": 62,
+          "player": "FRANCISCO GARI SERRA",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 67,
+          "player": "JOAN ROIG GALMES",
+          "type": "penalty_goal",
+          "team": "away",
+          "score": "1-1"
+        },
+        {
+          "minute": 71,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "IGNACIO PEREZ MARTIN",
+          "playerOut": "MARC SINTES PONS"
+        },
+        {
+          "minute": 71,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "ANTONIO JIMENEZ CARBONERO",
+          "playerOut": "JOSEPH ANIBAL BARRAGAN CRUZ"
+        },
+        {
+          "minute": 72,
+          "player": "ALEJANDRO ALVAREZ CREGO",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 75,
+          "player": "LLORENÇ OLIVES PETRUS",
+          "type": "yellow_card",
+          "team": "home"
+        },
+        {
+          "minute": 75,
+          "player": "OMAR GALLA DIOP",
+          "type": "red_card",
+          "team": "home"
+        },
+        {
+          "minute": 77,
+          "player": "ANDREU LLADO VIVES",
+          "type": "goal",
+          "team": "away",
+          "score": "1-2"
+        },
+        {
+          "minute": 80,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "JORDI BRUNET UMBERT",
+          "playerOut": "JOAN ROIG GALMES"
+        },
+        {
+          "minute": 80,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "GASPAR SASTRE SUNYER",
+          "playerOut": "TOMEU NEBOT SCHMALFELD"
+        },
+        {
+          "minute": 84,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "LLUC SANS VIDAL",
+          "playerOut": "MARTI HUGUET CAPO"
+        },
+        {
+          "minute": 86,
+          "player": "IGNACIO PEREZ MARTIN",
+          "type": "red_card",
+          "team": "home"
+        },
+        {
+          "minute": 87,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "JAVIER DÍAZ BAUTISTA",
+          "playerOut": "LUCAS AGUSTIN BLANCO JAQUEZ"
+        },
+        {
+          "minute": 87,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "JOAN BAUZA COMPANY",
+          "playerOut": "ALEJANDRO GARCIA PABLO"
+        },
+        {
+          "minute": 89,
+          "player": "RAUL SEGOVIA MUÑOZ",
+          "type": "yellow_card",
+          "team": "home"
+        },
+        {
+          "minute": 89,
+          "player": "JORDI BRUNET UMBERT",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 90,
+          "player": "ABDOUL KARIM SIDIBE",
+          "type": "goal",
+          "team": "home",
+          "score": "2-2"
+        },
+        {
+          "minute": 90,
+          "player": "GERARD TRIAY GOMILA",
+          "type": "red_card",
+          "team": "home"
+        },
+        {
+          "minute": 93,
+          "player": "JOAN BAUZA COMPANY",
+          "type": "penalty_goal",
+          "team": "away",
+          "score": "2-3"
+        }
+      ]
+    }
+  }
+}
