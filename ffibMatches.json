@@ -370,5 +370,120 @@
       "date": "2027-04-24",
       "time": "16:00"
     }
+  },
+  "2026-011": {
+    "schedule": {
+      "date": "2026-11-14",
+      "time": "17:00"
+    },
+    "actaId": "765079",
+    "report": {
+      "fixture": {
+        "home": "CD MIGJORN",
+        "away": "ARENAL",
+        "competition": "tercera"
+      },
+      "actaId": "765079",
+      "score": [
+        1,
+        1
+      ],
+      "events": [
+        {
+          "minute": 2,
+          "player": "ANTONIO JIMENEZ CARBONERO",
+          "type": "goal",
+          "team": "home",
+          "score": "1-0"
+        },
+        {
+          "minute": 28,
+          "player": "HECTOR RIUDAVETS OLMOS",
+          "type": "yellow_card",
+          "team": "home"
+        },
+        {
+          "minute": 45,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "ADRIAN FERREIRA COMINO",
+          "playerOut": "DIEGO ESTRADA RODRÍGUEZ"
+        },
+        {
+          "minute": 45,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "NICOLÁS RAÚL RIVERON PALUMBO",
+          "playerOut": "VICENTE VALENTINO GIMENEZ SIANTURI"
+        },
+        {
+          "minute": 55,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "LLUC SANS VIDAL",
+          "playerOut": "HECTOR RIUDAVETS OLMOS"
+        },
+        {
+          "minute": 55,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "IGNACIO PEREZ MARTIN",
+          "playerOut": "MARC MELIA BARBER"
+        },
+        {
+          "minute": 69,
+          "player": "ADRIAN FERREIRA COMINO",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 70,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "MARC SINTES PONS",
+          "playerOut": "ANTONIO JIMENEZ CARBONERO"
+        },
+        {
+          "minute": 70,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "SERGIO UCLES BAUZA",
+          "playerOut": "MATIAS DAMIAN DE LLANO BAUDRACO"
+        },
+        {
+          "minute": 70,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "RAUL CAMACHO BEAS",
+          "playerOut": "ADRIAN PERICAS CALVETE"
+        },
+        {
+          "minute": 80,
+          "player": "NICOLÁS RAÚL RIVERON PALUMBO",
+          "type": "goal",
+          "team": "away",
+          "score": "1-1"
+        },
+        {
+          "minute": 81,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "MARC URBINA RUBIO",
+          "playerOut": "MACODE SAMB"
+        },
+        {
+          "minute": 86,
+          "player": "MARC ENRIQUE LOPEZ DIAZ",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 87,
+          "player": "RAUL SEGOVIA MUÑOZ",
+          "type": "yellow_card",
+          "team": "home"
+        }
+      ]
+    }
   }
 }
