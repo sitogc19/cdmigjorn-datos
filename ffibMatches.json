@@ -503,5 +503,158 @@
       "date": "2027-03-14",
       "time": "12:00"
     }
+  },
+  "2026-010": {
+    "schedule": {
+      "date": "2026-11-08",
+      "time": "12:00"
+    },
+    "actaId": "765070",
+    "report": {
+      "fixture": {
+        "home": "INTER IBIZA",
+        "away": "CD MIGJORN",
+        "competition": "tercera"
+      },
+      "actaId": "765070",
+      "score": [
+        2,
+        0
+      ],
+      "events": [
+        {
+          "minute": 14,
+          "player": "MARIO MORA BARROSO",
+          "type": "yellow_card",
+          "team": "home"
+        },
+        {
+          "minute": 26,
+          "player": "DANIEL KWADWO OPOKU",
+          "type": "yellow_card",
+          "team": "home"
+        },
+        {
+          "minute": 29,
+          "player": "JOAN COLL SOLA",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 35,
+          "player": "HUGO DIAZ TRIGUEROS",
+          "type": "red_card",
+          "team": "home"
+        },
+        {
+          "minute": 44,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "SERGI PONS PONS",
+          "playerOut": "IGNACIO PEREZ MARTIN"
+        },
+        {
+          "minute": 45,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "MARC MELIA BARBER",
+          "playerOut": "JOAN COLL SOLA"
+        },
+        {
+          "minute": 45,
+          "player": "LLORENÇ OLIVES PETRUS",
+          "type": "red_card",
+          "team": "away"
+        },
+        {
+          "minute": 45,
+          "player": "IGNACIO PEREZ MARTIN",
+          "type": "yellow_card",
+          "team": "away"
+        },
+        {
+          "minute": 61,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "MACODE SAMB",
+          "playerOut": "JOSEPH ANIBAL BARRAGAN CRUZ"
+        },
+        {
+          "minute": 62,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "KADER DRISSA BALLO",
+          "playerOut": "MARIO MORA BARROSO"
+        },
+        {
+          "minute": 72,
+          "player": "RAUL VILLALONGA PRIETO",
+          "type": "red_card",
+          "team": "away"
+        },
+        {
+          "minute": 76,
+          "player": "ANTONIO JESÚS RODRÍGUEZ ESCALANTE",
+          "type": "penalty_goal",
+          "team": "home",
+          "score": "1-0"
+        },
+        {
+          "minute": 79,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "RIVALDO JOSE CORREIA CO",
+          "playerOut": "DANIEL KWADWO OPOKU"
+        },
+        {
+          "minute": 80,
+          "player": "GIANLUCA ALFENONI",
+          "type": "penalty_goal",
+          "team": "home",
+          "score": "2-0"
+        },
+        {
+          "minute": 80,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "MARC SINTES PONS",
+          "playerOut": "ANTONIO JIMENEZ CARBONERO"
+        },
+        {
+          "minute": 80,
+          "team": "away",
+          "type": "substitution",
+          "playerIn": "LUIS ENRIQUE JARAMILLO SALAZAR",
+          "playerOut": "LLUC SANS VIDAL"
+        },
+        {
+          "minute": 82,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "MIGUEL SEGURA GALINDO",
+          "playerOut": "ANTONIO JESÚS RODRÍGUEZ ESCALANTE"
+        },
+        {
+          "minute": 82,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "NAIM BEN ABDALLAH PASSES",
+          "playerOut": "FACUNDO NAHUEL ALGAÑARAZ"
+        },
+        {
+          "minute": 82,
+          "team": "home",
+          "type": "substitution",
+          "playerIn": "AGUSTIN CORNAGO AMESTOY",
+          "playerOut": "GIANLUCA ALFENONI"
+        },
+        {
+          "minute": 84,
+          "player": "RAUL CANO RECHE",
+          "type": "red_card",
+          "team": "home"
+        }
+      ]
+    }
   }
 }
